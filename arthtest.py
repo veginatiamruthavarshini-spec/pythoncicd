@@ -7,5 +7,5 @@ class ArtgTest(unittest.TestCase):
        self.assertEqual(sub(10,5),5)
     def test_mul(self):
        self.assertEqual(mul(10,5),50)
-if __name__="__main__":
+if __name__=="__main__":
  unittest.main()
